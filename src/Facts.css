@@ -1,0 +1,18 @@
+#facts-section {
+	display: flex;
+	flex-direction: column;
+	gap: 1rem;
+	padding: 2rem;
+	color: white;
+	background-image: url("./assets/react.svg");
+	filter: grayscale(100%);
+	background-size: 300px;
+	background-position: right;
+	background-repeat: no-repeat;
+	height: 100%;
+	max-height: 100vh;
+}
+
+#facts-list {
+	padding-left: 2rem;
+}

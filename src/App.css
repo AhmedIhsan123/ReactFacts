@@ -4,3 +4,8 @@
 	margin: 0;
 	font-family: "Inter";
 }
+
+main {
+	height: 100vh;
+	background-color: rgb(44, 43, 48);
+}

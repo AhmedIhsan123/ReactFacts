@@ -1,12 +1,12 @@
-import "./Header.css";
-import image from "./assets/hero.png";
+import "./MyHeader.css";
+import image from "./assets/react.svg";
 
 export default function () {
 	return (
 		<>
 			<div className="NavigationContainer">
-				<img src={image} width="40px"></img>
-				<h1>React Facts</h1>
+				<img id="react-img" src={image}></img>
+				<h1 id="navbar-title">React Facts</h1>
 			</div>
 		</>
 	);

@@ -7,7 +7,11 @@
 	padding: 1rem;
 }
 
-h1 {
+#navbar-title {
 	color: cyan;
 	font-size: 25px;
+}
+
+#react-img {
+	width: 50px;
 }
