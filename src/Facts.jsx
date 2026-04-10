@@ -5,12 +5,7 @@ export default function () {
 			<section id="facts-section">
 				<h1>Fun facts about React!</h1>
 				<ul id="facts-list">
-					<li>
-						Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptatem
-						sit nam illum debitis, odit exercitationem atque id. Odio, mollitia.
-						Accusamus, optio eligendi dicta laboriosam reiciendis ex officiis
-						quod debitis soluta.
-					</li>
+					<li>Item 1</li>
 					<li>
 						Lorem ipsum dolor sit, amet consectetur adipisicing elit. Beatae
 						voluptas veritatis vero, quam libero quis consectetur numquam
