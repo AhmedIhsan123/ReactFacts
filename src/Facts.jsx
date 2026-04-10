@@ -5,25 +5,11 @@ export default function () {
 			<section id="facts-section">
 				<h1>Fun facts about React!</h1>
 				<ul id="facts-list">
-					<li>Item 1</li>
-					<li>
-						Lorem ipsum dolor sit, amet consectetur adipisicing elit. Beatae
-						voluptas veritatis vero, quam libero quis consectetur numquam
-						ratione qui. Minima eveniet optio qui quaerat aliquam ratione quod
-						quo exercitationem magnam?
-					</li>
-					<li>
-						Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel quas
-						hic, assumenda culpa consectetur voluptas a laborum possimus quae
-						inventore laudantium reprehenderit facilis, rem voluptate qui nulla
-						sed excepturi! Ea!
-					</li>
-					<li>
-						Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis,
-						laborum voluptatibus sit in, quos ut, quaerat ab amet reprehenderit
-						tempora mollitia vel obcaecati ea. Dolor perferendis est sequi
-						consequatur ipsam!s
-					</li>
+					<li>First released in 2013</li>
+					<li>Was originally created by jordan walke</li>
+					<li>Has well over 200k stars on github</li>
+					<li>Maintained by meta</li>
+					<li>Powers thousands of enterprise apps, including mobile apps</li>
 				</ul>
 			</section>
 		</>
